@@ -13,7 +13,7 @@ const expectedFilesInArchiveDir = [
 
 const expectedFilesInDistDir = [
 
-  '.editorconfig',
+
   '.gitattributes',
   '.gitignore',
   '.htaccess',
